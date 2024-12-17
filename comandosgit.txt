@@ -1,0 +1,20 @@
+Comando aprendidos sobre Git;
+
+git config --local   user.name "Seu nome aqui"
+git config --local   user.email "seu@email.aqui"
+
+git init: inicia o repositório local
+
+git status: analisa o repositório mostrando algumas informações
+
+git add: adiciona arquivos para serem commitados
+
+git commit -m "descrição": salva a versão
+
+git log: mostra o histórico de versões 
+
+gerenciar nossas versões com o Github + novos comandos
+
+git branch -M main
+git remote add origin https://github.com/samuel-franco/projetotestegit.git
+git push -u origin main
